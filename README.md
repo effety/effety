@@ -9,6 +9,7 @@
 - Codeigniter
 - NodeJs
 - JavaScript
+- Python
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=effety&layout=compact">
 
