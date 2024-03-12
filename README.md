@@ -6,6 +6,7 @@
 
 - Frontend and Backend Web Development
 - Laravel
+- Codeigniter
 - NodeJs
 - JavaScript
 
